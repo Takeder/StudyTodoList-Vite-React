@@ -1,4 +1,4 @@
-import { useTheme } from '../../../../app/store/hooks/useTheme';
+import { useTheme } from '../../../../core';
 import { Button } from '../../../../shared/ui/Button';
 
 import styles from './styles.module.css';

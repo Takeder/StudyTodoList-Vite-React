@@ -1,4 +1,4 @@
-import { ThemeProvider } from '../../../../app/store';
+import { ThemeProvider } from '../../../../core';
 import { ToggleTheme } from './ToggleTheme';
 
 /**
